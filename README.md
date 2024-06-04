@@ -1,6 +1,6 @@
 # Challenge ONE - Back End Java + Spring - API Rest Foro Alura.
 
-![Badge Release](https://img.shields.io/badge/Release%20Date:-Mayo-blue)``
+![Badge Release](https://img.shields.io/badge/Release%20Date:-Junio-blue)
 ![Badge Java](https://img.shields.io/badge/Java:-17-blue)
 ![Badge Java](https://img.shields.io/badge/Spring%20Boot:-3.1.0-blue)
 ![Badge Finalizado](https://img.shields.io/badge/Status:-Finalizado-blue)
